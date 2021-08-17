@@ -19,7 +19,7 @@
 
 *feature* >>> for day to day development - every developer will create separate branch for development
 
-*hotfix* >>> Create a new branch "hostfix-####" from master or tag (from the production code) to fix if there are any PROD issues.
+*hotfix/bugfix* >>> Create a new branch "hostfix-####" from master or tag (from the production code) to fix if there are any PROD issues.
 
 **Workflow**: 
    
