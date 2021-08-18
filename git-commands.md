@@ -28,6 +28,8 @@
             
             git rm -rf .
             
+            git rm --cached fileName (to unstage the files)
+            
             ex: git rm Dir/\*.txt ---> Removes all *.txt files from the index that are under the Documentation directory and any of its subdirectories.
 
 1. fetch
