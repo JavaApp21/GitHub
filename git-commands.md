@@ -386,4 +386,6 @@
             3. git status
             4. git restore --staged file1.txt
             5. git status
+            6. git restore file1.txt (to undo the changes from the file)
+            7. git status
             
