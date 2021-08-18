@@ -2,15 +2,15 @@
 
 1. clone
 
-            git clone GitURL
+            git clone GitURL  (default branch will be cloned - to change the default branch go to repo settings >>> branches >>> change the default branch from master to other branch - but this change is NOT highly recommended)
 
             git clone GitURL destinationPath
 
-            git clone -b <branchName> <gitURL> <destinationPath>
+            git clone -b <branchName> <gitURL> <destinationPath> (to clone the specific branch)
 
 1. status
 
-            git status
+            git status (to see the git tracked files - staged and unstanged changes))
 
 1. add
 
